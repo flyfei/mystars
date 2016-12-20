@@ -76,6 +76,7 @@
 
 ## Java
 
+- [android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [HTTPDNSLib](https://github.com/CNSRE/HTTPDNSLib) -
 - [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) - An page indicator for Android ViewPager
 - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
