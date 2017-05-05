@@ -1,30 +1,36 @@
-# MyStars
+> # MyStars
 
 
 ## Contents
 
-- [C](#c)
-- [C#](#c#)
-    - [C++](#c++)
-    - [CSS](#css)
-    - [Go](#go)
-    - [Groovy](#groovy)
-    - [HTML](#html)
-    - [Java](#java)
-    - [JavaScript](#javascript)
-    - [Objective-C](#objective-c)
-    - [Others](#others)
-    - [PHP](#php)
-    - [Python](#python)
-    - [Ruby](#ruby)
-    - [Shell](#shell)
-    - [Swift](#swift)
-    - [TeX](#tex)
-    - [TypeScript](#typescript)
-    - [XML](#xml)
+- [ActionScript](#actionscript)
+  - [C](#c)
+  - [C#](#c#)
+  - [C++](#c++)
+  - [CSS](#css)
+  - [Go](#go)
+  - [Groovy](#groovy)
+  - [HTML](#html)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Objective-C](#objective-c)
+  - [Others](#others)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Shell](#shell)
+  - [Swift](#swift)
+  - [TeX](#tex)
+  - [TypeScript](#typescript)
+  - [XML](#xml)
+
+## ActionScript 
+
+- [Fanvas](https://github.com/Tencent/Fanvas) - Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key!
 
 ## C 
 
+- [tess-two](https://github.com/rmtheis/tess-two) - Fork of Tesseract Tools for Android
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 - [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 - [bypass](https://github.com/Uncodin/bypass) - Skip the HTML, Bypass takes markdown and renders it directly on Android and iOS.
@@ -37,6 +43,9 @@
 
 ## C++ 
 
+- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+- [mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 - [AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
 - [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) - Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复)
 - [AndroidDecompiler](https://github.com/dirkvranckaert/AndroidDecompiler) - Decompile any APK
@@ -57,7 +66,7 @@
 
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [go](https://github.com/golang/go) - The Go programming language
-- [lantern](https://github.com/getlantern/lantern) - :izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
+- [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
 
 ## Groovy 
 
@@ -77,6 +86,27 @@
 
 ## Java 
 
+- [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
+- [jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
+- [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) - screenshot-test-for-android is a library that can generate fast deterministic screenshots while running instrumentation tests in android.
+- [AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
+- [RootTools](https://github.com/Stericson/RootTools) - RootTools Library
+- [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU"
+- [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) - make performance bottleneck detection easily when app blocked
+- [android-common](https://github.com/Trinea/android-common) - Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  微信公众号：codekk
+- [AlxLocationManager](https://github.com/AlexZhuo/AlxLocationManager) - Android GPS+基站+WiFi热点多渠道定位模块的Demo，使用Google Geo Location API+谷歌gcm SDK/安卓原生方式，请翻墙后测试效果
+- [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB
+- [JavaMail-API-Android](https://github.com/steveholt55/JavaMail-API-Android) - Example using JavaMailAPI to send emails with gmail account in Android
+- [AndroidAutoClick](https://github.com/minggo620/AndroidAutoClick) - 自动点击[模拟点击、辅助服务、反射遍历破解]
+- [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) - A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
+- [RadarChart](https://github.com/qstumn/RadarChart) - 支持自由定制外观、手势旋转的雷达图表 android radarchart
+- [BadgeView](https://github.com/qstumn/BadgeView) - 支持自由定制外观、拖拽消除的MaterialDesign风格Android BadgeView
+- [Android-SplashView](https://github.com/jkyeo/Android-SplashView) - A SplashView injecting to any activity for android.
+- [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids 💪
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+- [NetView](https://github.com/a-voyager/NetView) - 自定义控件——蜘网图(雷达图)控件
+- [AutoInstaller](https://github.com/a-voyager/AutoInstaller) - 应用自动静默更新安装库.
+- [BluetoothHelper](https://github.com/a-voyager/BluetoothHelper) - Bluetooth Helper Library.—-蓝牙操作库
 - [MagicaSakura](https://github.com/Bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.
 - [CustomLrcView-master](https://github.com/android-lili/CustomLrcView-master) - 自定义显示歌词的控件，实现了歌词的平滑向上滚动，当高亮歌词宽度超过了view的宽的时候，水平滚动
 - [MediaPlayerProxy](https://github.com/andrewhanks/MediaPlayerProxy) - Forking from lialun/MusicPlayerProxy
@@ -84,7 +114,7 @@
 - [HTTPDNSLib](https://github.com/CNSRE/HTTPDNSLib) - 
 - [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) - An page indicator for Android ViewPager
 - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
-- [android-classyshark](https://github.com/google/android-classyshark) - Android executables browser
+- [android-classyshark](https://github.com/google/android-classyshark) - Executables (apk, multi-dex, jar) browser for Android and Java
 - [ShareButton](https://github.com/kayan1990/ShareButton) - A share button with smooth animation
 - [agera](https://github.com/google/agera) - Reactive Programming for Android
 - [PloyFun](https://github.com/hugeterry/PloyFun) - LowPoly image processing./导入图片生成Low Poly风格图片的app
@@ -137,7 +167,7 @@
 - [MaterialTextField](https://github.com/florent37/MaterialTextField) - A different beautiful Floating Edit Text
 - [HollyViewPager](https://github.com/florent37/HollyViewPager) - A different beautiful ViewPager, with quick swipe controls
 - [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - A Material Design ViewPager easy to use library
-- [A-MusicView](https://github.com/north2016/A-MusicView) - 原创自定义控件之-Canvas实时绘制音乐波形图
+- [A-MusicView](https://github.com/north2016/A-MusicView) - 此项目已废弃
 - [PianoView](https://github.com/north2016/PianoView) - 原创自定义控件之-仿最美应用的琴键控件
 - [smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) - Smooth version of Google Support Design AppBarLayout
 - [fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
@@ -160,7 +190,7 @@
 - [2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [Android-MaterialDeleteLayout](https://github.com/android-cjj/Android-MaterialDeleteLayout) - Maetrial Design Delete Concept Implement
 - [WaterDropListView](https://github.com/THEONE10211024/WaterDropListView) - WaterDropListView，just like the iOS
-- [CoordinatorExamples](https://github.com/saulmm/CoordinatorExamples) - 
+- [CoordinatorExamples](https://github.com/saulmm/CoordinatorExamples) - Different CoordinatorLayout usages, tips & examples
 - [Avengers](https://github.com/saulmm/Avengers) - [Deprecated] This project aims to work as a demo project and reference using the common frameworks and tools
 - [Curved-Fab-Reveal-Example](https://github.com/saulmm/Curved-Fab-Reveal-Example) - 
 - [Material-Movies](https://github.com/saulmm/Material-Movies) - [Deprecated] An application about movies with material design
@@ -216,7 +246,7 @@
 - [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) - DEPRECATED
 - [android-guide-overlay](https://github.com/qluan/android-guide-overlay) - new feature guide overlay view
 - [SpringIndicator](https://github.com/chenupt/SpringIndicator) - A spring indicator like Morning Routine guide.
-- [Catlog](https://github.com/nolanlawson/Catlog) - Logcat-reading app for Android (unmaintained)
+- [Catlog](https://github.com/nolanlawson/Catlog) - Logcat-reading app for Android (UNMAINTAINED)
 - [material-animated-switch](https://github.com/glomadrian/material-animated-switch) - A material Switch with icon animations and color transitions
 - [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) - Neat library, that provides a simple way to implement guillotine-styled animation
 - [idea-markdown](https://github.com/nicoulaj/idea-markdown) - Markdown language support for IntelliJ IDEA (abandonned).
@@ -295,12 +325,12 @@
 - [grafika](https://github.com/google/grafika) - Grafika test app
 - [googletv-android-samples](https://github.com/google/googletv-android-samples) - Source for many GoogleTV Example applications.
 - [picview-for-android](https://github.com/google/picview-for-android) - 
-- [guava](https://github.com/google/guava) - Google Core Libraries for Java 6+
+- [guava](https://github.com/google/guava) - Google Core Libraries for Java
 - [Android-Material-Examples](https://github.com/saulmm/Android-Material-Examples) - [Deprecated] Little bites of Material Design
 - [android-ui](https://github.com/markushi/android-ui) - Android UI library.
 - [Android-PullLayout](https://github.com/BlueMor/Android-PullLayout) - 仿UC天气下拉和微信下拉眼睛
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way...
-- [android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator) - A small tool to generate an Android ContentProvider.
+- [android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator) - A tool to generate Android ContentProviders.
 - [droidicon](https://github.com/theDazzler/droidicon) - Over 1600 customizable icons for Android including 750+ Google Material Design icons, 25 ready-made social badges, and more!
 - [weiciyuan](https://github.com/qii/weiciyuan) - Sina Weibo Android Client
 - [android-times-square](https://github.com/square/android-times-square) - Standalone Android widget for picking a single date from a calendar view.
@@ -338,7 +368,7 @@
 - [Android-ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) - NewsStand Application for Android's view of play, such as a pager function that implements the code.
 - [photup](https://github.com/chrisbanes/photup) - photup
 - [rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app.
-- [floatlabelededittext](https://github.com/wrapp/floatlabelededittext) - Floating hint from edit text - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users
+- [floatlabelededittext](https://github.com/wrapp-archive/floatlabelededittext) - Floating hint from edit text - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users
 - [SuperToasts](https://github.com/JohnPersano/SuperToasts) - A library that extends the Android toast framework.
 - [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) - An elegant way to show your menu or messages.
 - [cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card
@@ -383,13 +413,12 @@
 - [cw-omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 - [CircleProgress](https://github.com/487qq/CircleProgress) - an Android CircleProgress;Has 3 style;圆形，扇形，圆弧
 - [android-bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) - A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
-- [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Advanced Email for Android
-- [AndroidUtils](https://github.com/pardom/AndroidUtils) - 
+- [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Advanced Email for Android 📧
 - [android-circlebutton](https://github.com/markushi/android-circlebutton) - Circle button widget for Android
 - [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
 - [android_volley_examples](https://github.com/ogrebgr/android_volley_examples) - Project with examples how to use the new Volley networking framework
-- [androidInject](https://github.com/wangjiegulu/androidInject) - 使用注解来简化android开发, Use annotations inject to simplify the development of android
+- [androidInject](https://github.com/wangjiegulu/androidInject) - [DEPRECATED]使用注解来简化android开发, Use annotations inject to simplify the development of android
 - [PanoramicView](https://github.com/tnextday/PanoramicView) - 一个Android上使用OpenGL ES显示全景图片的DEMO
 - [LetterDreamer](https://github.com/Adoni/LetterDreamer) - 这是一个基于Android的小应用，我希望它可以让用户把自己写字的轨迹留下，生成GIF图片，并可以分享到SNS上，可以选择画笔、背景，可以添加小组件（如一个邮戳等）
 - [android-auto-update](https://github.com/feicien/android-auto-update) - Android 应用自动更新。Android update checker,download and install apk file
@@ -404,12 +433,14 @@
 - [android-menudrawer](https://github.com/SimonVT/android-menudrawer) - *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.
 - [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) - DEPRECATED
 - [acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
-- [sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Code Inspection
+- [sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Code Quality
 - [afinal](https://github.com/yangfuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。详情请通过以下网址查看。
 - [SoundRecorder](https://github.com/MiCode/SoundRecorder) - MIUI录音机社区开源版（Community edition of MIUI SoundRecorder)
 
 ## JavaScript 
 
+- [fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 - [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
@@ -429,14 +460,14 @@
 - [Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
 - [tether](https://github.com/HubSpot/tether) - A positioning engine to make overlays, tooltips and dropdowns better #hubspot-open-source
 - [react-webpack-es2015](https://github.com/mamal72/react-webpack-es2015) - :balloon: A simple React start point with Webpack, Babel, ESLint, ES2015(ES6) & ES7
-- [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React
+- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [kattappa](https://github.com/brijeshb42/kattappa) - A block based rich text editor.
 - [klassify](https://github.com/fatiherikli/klassify) - Bayesian Text classification service based on Redis. Built on top of Tornado and React.js
 - [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
 - [handlebars.js](https://github.com/wycats/handlebars.js) - 
-- [loopback](https://github.com/strongloop/loopback) - LoopBack is an open source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
+- [loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components
 - [bleeding-edge-sample-app](https://github.com/backstopmedia/bleeding-edge-sample-app) - A sample app for a Bleeding Edge Press book.
 - [react-toastr](https://github.com/tomchentw/react-toastr) - React.js toastr component
@@ -460,8 +491,8 @@
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial) - react-redux-tutorial in Chinese, catalog && code examples
 - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
-- [structor](https://github.com/ipselon/structor) - An advanced visual editor for React components
-- [react-designer](https://github.com/fatiherikli/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
+- [structor](https://github.com/ipselon/structor) - Structor - React UI Builder
+- [react-designer](https://github.com/fatiherikli/react-designer) - Editable vector graphics in your react components.
 - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js
 - [flux-react](https://github.com/christianalfoni/flux-react) - A library combining tools to develop with a FLUX architecture
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
@@ -493,10 +524,17 @@
 - [Tools](https://github.com/cheneyxx/Tools) - Tools
 - [CloudIM](https://github.com/cheneyxx/CloudIM) - Swift 2.0 使用IM融云SDK开发的聊天App
 - [BaiSiCommunity](https://github.com/cheneyxx/BaiSiCommunity) - BaiSiCommunity
-- [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP.
+- [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.
 
 ## Others 
 
+- [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - Android crack tool Just For Mac
+- [android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
+- [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
+- [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
+- [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
+- [gold-miner](https://github.com/xitu/gold-miner) - 掘金翻译计划，翻译掘金上优质的英文文章
+- [clean-code-js](https://github.com/alivebao/clean-code-js) - JavaScript风格指南
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
@@ -510,7 +548,7 @@
 - [Shadowsocks](https://github.com/tovi9/Shadowsocks) - Shadowsocks
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-- [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) - 一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
+- [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) - 【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 - [Singleton](https://github.com/Raizlabs/Singleton) - 
 - [mqtt.github.io](https://github.com/mqtt/mqtt.github.io) - website
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
@@ -520,14 +558,17 @@
 ## PHP 
 
 - [workerman-todpole](https://github.com/walkor/workerman-todpole) - HTLM5+WebSocket+PHP(Workerman) , rumpetroll server writen using php
-- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket and other custom protocols. Supports libevent, HHVM, ReactPHP.
+- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket, SSL and other custom protocols. Supports libevent, HHVM, ReactPHP.
 
 ## Python 
 
+- [zmirror](https://github.com/aploium/zmirror) - The next-gen reverse proxy for full site mirroring
+- [hooker](https://github.com/AndroidHooker/hooker) - Hooker is an opensource project for dynamic analyses of Android applications. This project provides various tools and applications that can be use to automaticaly intercept and modify any API calls made by a targeted application.
+- [android-test-tool](https://github.com/krutoivoker/android-test-tool) - GetEvent, SendEvent based tool to record and playback user actions
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - 微信公众号爬虫
 - [GoAgent-Always-Available](https://github.com/out0fmemory/GoAgent-Always-Available) - 一直可用的GoAgent，会定时扫描可用的google gae ip，提供可自动化获取ip运行的版本
-- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - 查看被删的微信好友
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [faceswap](https://github.com/matthewearl/faceswap) - Python script to put facial features from one face onto another
@@ -539,6 +580,7 @@
 
 ## Ruby 
 
+- [dryrun](https://github.com/cesarferreira/dryrun) - :coffee: Try the demo project of any Android Library
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
 - [searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy with Rails and Elasticsearch
