@@ -249,7 +249,7 @@
 - [Catlog](https://github.com/nolanlawson/Catlog) - Logcat-reading app for Android (UNMAINTAINED)
 - [material-animated-switch](https://github.com/glomadrian/material-animated-switch) - A material Switch with icon animations and color transitions
 - [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) - Neat library, that provides a simple way to implement guillotine-styled animation
-- [idea-markdown](https://github.com/nicoulaj/idea-markdown) - Markdown language support for IntelliJ IDEA (abandonned).
+- [idea-markdown](https://github.com/nicoulaj/idea-markdown) - Markdown language support for IntelliJ IDEA (abandoned).
 - [dialogplus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for android
 - [Debug](https://github.com/noties/Debug) - Android logging utility
 - [flow](https://github.com/square/flow) - Name UI states, navigate between them, remember where you've been.
